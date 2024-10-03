@@ -17,10 +17,9 @@
 ### Connect with Me
 [Email](mailto:sherinv.de@gmail.com) · [LinkedIn](https://linkedin.com/in/sherinv0404) 
 
+*—let’s build something awesome! 🚀✨*
+
 ---
-
-*Keep building, keep exploring!*
-
 
 ### Fun with JavaScript
 ```javascript
